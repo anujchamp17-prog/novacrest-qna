@@ -6,7 +6,7 @@ import requests
 # Configuration
 # ---------------------------------------------------------
 
-BACKEND_URL = "http://localhost:7860"
+BACKEND_URL = "https://symmetrical-zebra-qvvr54j7v5pjf6x65-7860.app.github.dev:7860"
 
 
 # ---------------------------------------------------------
